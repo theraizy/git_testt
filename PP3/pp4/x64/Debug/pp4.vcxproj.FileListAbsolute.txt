@@ -1,0 +1,9 @@
+C:\Users\student\Documents\harisov205\pp4\pp4\x64\Debug\pp4.vcxproj.AssemblyReference.cache
+C:\Users\student\Documents\harisov205\pp4\pp4\x64\Debug\pp4.MyForm.resources
+C:\Users\student\Documents\harisov205\pp4\pp4\x64\Debug\pp4.vcxproj.GenerateResource.cache
+C:\Users\student\Projects\modul\pp4\pp4\x64\Debug\pp4.vcxproj.AssemblyReference.cache
+C:\Users\student\Projects\modul\pp4\pp4\x64\Debug\pp4.MyForm.resources
+C:\Users\student\Projects\modul\pp4\pp4\x64\Debug\pp4.vcxproj.GenerateResource.cache
+C:\Users\student\Projects\modul\PP3\pp4\x64\Debug\pp4.vcxproj.AssemblyReference.cache
+C:\Users\student\Projects\modul\PP3\pp4\x64\Debug\pp4.MyForm.resources
+C:\Users\student\Projects\modul\PP3\pp4\x64\Debug\pp4.vcxproj.GenerateResource.cache
